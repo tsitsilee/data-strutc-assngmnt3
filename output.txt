@@ -1,0 +1,133 @@
+ lsvotwa
+ Arrival rate:   10 cars per minute
+ Departure rate: 5 s per car
+ Runtime:        5 min
+ Time increment: 10 ms
+ Light sequence: Green 10; Amber 1; Red 30 
+ Average length: 21 cars
+ Median length:  19 cars
+ Maximum length: 34 cars
+ Average wait:   134 s
+ Maximum wait:   269 s
+  
+ Arrival rate:   1000 cars per minute
+ Departure rate: 10 s per car
+ Runtime:        5 min
+ Time increment: 10 ms
+ Light sequence: Green 10; Amber 1; Red 30 
+ Average length: 2474 cars
+ Median length:  2449 cars
+ Maximum length: 4147 cars
+ Average wait:   149 s
+ Maximum wait:   299 s
+  
+ Arrival rate:   800 cars per minute
+ Departure rate: 10 s per car
+ Runtime:        5 min
+ Time increment: 16 ms
+ Light sequence: Green 15; Amber 2; Red 35 
+ Average length: 2025 cars
+ Median length:  2039 cars
+ Maximum length: 2901 cars
+ Average wait:   149 s
+ Maximum wait:   299 s
+  
+ Arrival rate:   50 cars per minute
+ Departure rate: 15 s per car
+ Runtime:        8 min
+ Time increment: 19 ms
+ Light sequence: Green 17; Amber 5; Red 47 
+ Average length: 200 cars
+ Median length:  207 cars
+ Maximum length: 323 cars
+ Average wait:   236 s
+ Maximum wait:   475 s
+  
+ Arrival rate:   100 cars per minute
+ Departure rate: 50 s per car
+ Runtime:        50 min
+ Time increment: 100 ms
+ Light sequence: Green 100; Amber 2; Red 300 
+ Average length: 2429 cars
+ Median length:  2411 cars
+ Maximum length: 3975 cars
+ Average wait:   -267 s
+ Maximum wait:   2997 s
+  
+ Arrival rate:   600 cars per minute
+ Departure rate: 5 s per car
+ Runtime:        5 min
+ Time increment: 1000 ms
+ Light sequence: Green 30; Amber 25; Red 40 
+ Average length: 1479 cars
+ Median length:  1471 cars
+ Maximum length: 2930 cars
+ Average wait:   149 s
+ Maximum wait:   299 s
+  
+ Arrival rate:   10 cars per minute
+ Departure rate: 5 s per car
+ Runtime:        5 min
+ Time increment: 10 ms
+ Light sequence: Green 10; Amber 0; Red 30 
+ Average length: 20 cars
+ Median length:  21 cars
+ Maximum length: 33 cars
+ Average wait:   126 s
+ Maximum wait:   248 s
+  
+ Arrival rate:   10 cars per minute
+ Departure rate: 5 s per car
+ Runtime:        5 min
+ Time increment: 10 ms
+ Light sequence: Green 10; Amber 1; Red 30 
+ Average length: 23 cars
+ Median length:  23 cars
+ Maximum length: 40 cars
+ Average wait:   131 s
+ Maximum wait:   273 s
+  
+ Arrival rate:   700 cars per minute
+ Departure rate: 5 s per car
+ Runtime:        5 min
+ Time increment: 10 ms
+ Light sequence: Green 10; Amber 1; Red 30 
+ Average length: 1660 cars
+ Median length:  1654 cars
+ Maximum length: 2727 cars
+ Average wait:   148 s
+ Maximum wait:   299 s
+  
+ Arrival rate:   10 cars per minute
+ Departure rate: 5 s per car
+ Runtime:        5 min
+ Time increment: 70 ms
+ Light sequence: Green 10; Amber 1; Red 30 
+ Average length: 23 cars
+ Median length:  24 cars
+ Maximum length: 35 cars
+ Average wait:   136 s
+ Maximum wait:   266 s
+  
+ Arrival rate:   10 cars per minute
+ Departure rate: 50 s per car
+ Runtime:        50 min
+ Time increment: 100 ms
+ Light sequence: Green 10; Amber 0; Red 10 
+ Average length: 244 cars
+ Median length:  248 cars
+ Maximum length: 0 cars
+ Average wait:   1518 s
+ Maximum wait:   2999 s
+  
+ Arrival rate:   100 cars per minute
+ Departure rate: 20 s per car
+ Runtime:        10 min
+ Time increment: 100 ms
+ Light sequence: Green 10; Amber 1; Red 30 
+ Average length: 483 cars
+ Median length:  484 cars
+ Maximum length: 0 cars
+ Average wait:   300 s
+ Maximum wait:   599 s
+  

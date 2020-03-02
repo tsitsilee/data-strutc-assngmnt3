@@ -1,0 +1,92 @@
+12
+Arrival 10
+Departure 5
+Runtime 5
+Increment 10
+Green 10
+Amber 1
+Red 30
+Runtime 5
+Amber 1
+Arrival 1000
+Green 10
+Departure 10
+Increment 10
+Red 30
+Increment 16
+Red 35
+Runtime 5
+Amber 2
+Arrival 800
+Green 15
+Departure 10
+Arrival 50
+Departure 15
+Runtime 8
+Increment 19
+Green 17
+Amber 5
+Red 47
+Amber 2
+Arrival 100
+Departure 50
+Runtime 50
+Green 100
+Increment 100
+Red 300
+Arrival 600
+Departure 5
+Runtime 5
+Increment 1000
+Green 30
+Amber 25
+Red 40
+Arrival 10
+Departure 5
+Runtime 5
+Increment 10
+Green 10
+Amber 0
+Red 30
+Arrival 10
+Departure 5
+Runtime 5
+Increment 10
+Green 10
+Amber 1
+Red 30
+Arrival 700
+Departure 5
+Runtime 5
+Increment 10
+Green 10
+Amber 1
+Red 30
+Green 10
+Arrival 10
+Departure 5
+Runtime 5
+Increment 70
+Amber 1
+Red 30
+Arrival 10
+Departure 50
+Runtime 50
+Increment 100
+Green 10
+Amber 0
+Red 10
+Arrival 100
+Departure 20
+Runtime 10
+Increment 100
+Green 10
+Amber 1
+Red 30
+
+
+
+
+
+
+
